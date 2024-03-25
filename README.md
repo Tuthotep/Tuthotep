@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tuthotep
-- 👀 I’m interested in ...html5,css,js,php,leaflet, and continue learning...
-- 🌱 I’m currently learning ... russian, and python/perl
-- 💞️ I’m looking to collaborate on ...any php or web interest proyect
+- 👋 Hi, I’m @Tuthotep, a sudaka lost in BCN
+
+- 🌱 I’m currently working on a website that inform about all the criticalmass around the world.
+- 🌱 Also, I'm working on a cyclotourist interest proyect, the SudVelo, a networks of routes for cyclists
 - 📫 How to reach me ... mmmmm.... here?.....
 
 <!---
