@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently working on a website that inform about all the criticalmass around the world.
 - 🌱 Also, I'm working on a cyclotourist interest proyect, the SudVelo, a networks of routes for cyclists
+
+And trying to get alive the Guifinet Voip Network..
+
 - 📫 How to reach me ... mmmmm.... here?.....
 
 <!---
